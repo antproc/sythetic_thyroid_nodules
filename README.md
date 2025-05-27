@@ -1,6 +1,6 @@
-This code accompanies a research paper titled ""
+This code accompanies a research paper titled "Domain Adaptation of Stable Diffusion for Ultrasound Inpainting: A Synthetic Data Approach for Enhanced Thyroid Nodule Segmentation"
 
-Due to the large size of the datasets used in the study, they could not be included in the GitHub repository. However, interested parties can access and download the datasets from the following external sources:
+You can access and download the datasets from the following external sources:
 
 TDID dataset: URL: http://cimalab.unal.edu.co/applications/thyroid/
 
