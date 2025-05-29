@@ -1,7 +1,7 @@
 
 ### Thyroid Nodule Ultrasound In-painting Pipeline
 
-This mini-package provides a reproducible workflow for
+This mini-package provides a reproducible workflow for paper Domain Adaptation of Stable Diffusion for Ultrasound Inpainting: A Synthetic Data Approach for Enhanced Thyroid Nodule Segmentation
 
 1. **Dataset statistics** – compute dataset-specific mean and std for grayscale normalisation.
 2. **Fine-tuning** a Stable-Diffusion v1-4 U-Net on masked ultrasound patches.
