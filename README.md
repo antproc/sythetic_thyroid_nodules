@@ -26,7 +26,7 @@ python inpaint.py --start-index 162
 
 Folder structure is controlled centrally in **`config.py`** – adjust only there.
 
-Becuase of the size, the fine-tuned diffusion model and the synthetic nodules can by found on google drive here:
+Due to its size, the fine-tuned diffusion model and the synthetic nodules can be found on Google Drive here:
 https://drive.google.com/drive/folders/1HP0bEvetqFJLmoaCttw9mruqrzUj5sn5?usp=sharing
 
 You can access and download the datasets from the following external sources:
